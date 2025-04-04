@@ -46,7 +46,7 @@ public class Developer {
         team.addMember("Renbo Zhang");
         team.addMember("Montgomery Forde");
         team.addMember("Ethan Solomon");
-        team.addMember("jeremiah Wong");
+        team.addMember("Jeremiah Wong");
         return team;
     }
 }
